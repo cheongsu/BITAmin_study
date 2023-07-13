@@ -1,4 +1,4 @@
-# Bitamin_study
+# BITAmin_study
 빅데이터 연합 동아리 Bitamin 정규세션 스터디
 
 기간 : 2022년 8월 27일 ~ 2023년 1월 7일
