@@ -1,5 +1,7 @@
 # BITAmin_study
-빅데이터 연합 동아리 Bitamin 정규세션 스터디
+
+### 빅데이터 연합 동아리 Bitamin 정규세션 스터디
+
 <img width="1078" alt="스크린샷 2023-07-14 오전 1 13 38" src="https://github.com/cheongsu/BITAmin_study/assets/103344737/217b5942-9a9e-4995-9fdb-a36400c96aee">
 
 기간 : 2022년 8월 27일 ~ 2023년 1월 7일
